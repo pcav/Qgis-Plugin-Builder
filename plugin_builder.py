@@ -290,7 +290,7 @@ class PluginBuilder:
         metadata_file.write(
             '# End of mandatory metadata\n\n')
         metadata_file.write(
-            '# Optional items:\n\n')
+            '# Recommended items:\n\n')
         metadata_file.write(
             '# Uncomment the following line and add your changelog:\n')
         metadata_file.write(
